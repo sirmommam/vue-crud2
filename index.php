@@ -21,7 +21,7 @@ $types = $conn->query("SELECT type_name FROM types");
 </head>
 <body class="container mt-4">
 
-    <h2>สร้างใบงาน</h2>
+    <h2>สร้างใบงาน!!</h2>
 
     <!-- ฟอร์มสร้างใบงาน -->
     <form id="workOrderForm">
